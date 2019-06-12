@@ -3,3 +3,8 @@ the key idea is that the maximum product is actually the product of the first tw
 but a few common mistakes
 1. int type is not enough and may cause overflow when number is large
 2. use sort and take the first two largest numbers makes the algorithm much more efficient, nlog(n) cost
+
+week 2:
+1. fibonacci sequence
+a) loop start and loop end
+b) no need to allocate a size N array/vector, 3 is enough
