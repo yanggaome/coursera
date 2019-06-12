@@ -6,5 +6,12 @@ but a few common mistakes
 
 week 2:
 1. fibonacci sequence
-- loop start and loop end
-- no need to allocate a size N array/vector, 3 is enough
+  - loop start and loop end
+  - no need to allocate a size N array/vector, 3 is enough
+2. fibonacci sequence last digit
+  - summation of the last digit is the last digit after summation
+3. greatest common divider
+  - the  Euclidean algorithm
+4. least common multiple
+   - utilize the gcd function
+   - \(a*b)/gcd(a,b)\
