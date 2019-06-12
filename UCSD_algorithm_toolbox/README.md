@@ -11,7 +11,7 @@ week 2:
 2. fibonacci sequence last digit
   - summation of the last digit is the last digit after summation
 3. greatest common divider
-  - the  Euclidean algorithm
+  - the Euclidean algorithm
 4. least common multiple
-   - utilize the gcd function
-   - \(a*b)/gcd(a,b)
+  - utilize the gcd function
+  - \(a*b)/gcd(a,b)
