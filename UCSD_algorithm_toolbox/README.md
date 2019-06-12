@@ -6,5 +6,5 @@ but a few common mistakes
 
 week 2:
 1. fibonacci sequence
-a) loop start and loop end
-b) no need to allocate a size N array/vector, 3 is enough
+- loop start and loop end
+- no need to allocate a size N array/vector, 3 is enough
