@@ -14,4 +14,4 @@ week 2:
   - the  Euclidean algorithm
 4. least common multiple
    - utilize the gcd function
-   - \(a*b)/gcd(a,b)\
+   - \(a*b)/gcd(a,b)
